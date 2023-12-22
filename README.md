@@ -1,6 +1,5 @@
 # WordScapes
-console-based simulator of the WordScapes games
-
+<h3>console-based simulator of the WordScapes games</h3>
 
 
 
